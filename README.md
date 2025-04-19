@@ -1,6 +1,10 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanno0725)](https://github.com/kanno0725/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanno0725&layout=compact)
+<a href="https://github.com/kanno0725/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kanno0725&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/kanno0725/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanno0725" />
+</a>
+
 <!--
 **kanno0725/kanno0725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
