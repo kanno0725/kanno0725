@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanno0725)](https://github.com/kanno0725/github-readme-stats)
 <!--
 **kanno0725/kanno0725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
